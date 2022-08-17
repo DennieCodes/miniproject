@@ -1,0 +1,23 @@
+{
+	"name": "miniproject",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "lite-server"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DennieCodes/miniproject.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/DennieCodes/miniproject/issues"
+	},
+	"homepage": "https://github.com/DennieCodes/miniproject#readme",
+	"dependencies": {
+		"lite-server": "^2.6.1"
+	}
+}
